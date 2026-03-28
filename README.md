@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm [RTX] Jean
 
-<!--
-**rtxjean/rtxjean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Developer & Minecraft Systems Administrator
+I specialize in creating custom tools and optimizing network architectures.
 
-Here are some ideas to get you started:
+- 🛠️ Currently working on **BK-Gradients** and **TicketMaster**.
+- 📚 Studying **Software Analysis and Development** at SENA.
+- 🌌 Interested in space-themed digital branding and UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rtxjean&show_icons=true&theme=visual_studio_dark)
