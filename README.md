@@ -14,5 +14,3 @@ I specialize in creating custom tools and optimizing network architectures.
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rtxjean&show_icons=true&theme=visual_studio_dark)
