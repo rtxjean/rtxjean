@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jehan
+# Hi 👋, I'm RtxJean
 
 ### 🚀 Software Developer & Minecraft Systems Administrator
 I specialize in creating custom tools, economy systems, and network optimization.
