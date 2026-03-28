@@ -1,26 +1,34 @@
 # Hi 👋, I'm [RTX] Jean
 
 ### 🚀 Software Developer & Minecraft Systems Administrator
-I specialize in creating custom tools and optimizing network architectures.
+I specialize in creating custom tools, economy systems, and network optimization.
 
-- 🛠️ Currently working on **BK-Gradients** and **TicketMaster**.
-- 📚 Studying **Software Analysis and Development** at SENA.
-- 🌌 Interested in space-themed digital branding and UI/UX.
+- 🛠️ Currently developing **BK-Gradients** and **TicketMaster**.
+- 🌌 Focused on space-themed digital branding and modern UI/UX.
+- 💻 Experienced in Java, Kotlin, and Linux environment management.
 
 ---
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
+### 📱 Connect with me
 <p align="left">
-  <a href="https://discord.gg/aQN5qn4yM" target="_blank">
+  <a href="https://discord.gg/SywvBvwgw" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://www.instagram.com/rtxjeandev" target="_blank">
+  <a href="https://www.instagram.com/rtxjean" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@rtxjean" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 📊 GitHub Activity
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rtxjean&show_icons=true&theme=tokyonight&count_private=true)
