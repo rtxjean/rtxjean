@@ -27,8 +27,4 @@ I specialize in creating custom tools, economy systems, and network optimization
 ### 🛠️ Tech Stack & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📊 GitHub Activity
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rtxjean&show_icons=true&theme=tokyonight&count_private=true)
