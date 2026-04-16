@@ -4,7 +4,6 @@
 I specialize in creating custom tools, economy systems, and network optimization.
 
 - 🛠️ Currently developing **BK-Gradients** and **TicketMaster**.
-- 🌌 Focused on space-themed digital branding and modern UI/UX.
 - 💻 Experienced in Java, Kotlin, and Linux environment management.
 
 ---
