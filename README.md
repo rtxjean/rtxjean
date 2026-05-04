@@ -1,7 +1,7 @@
 # 🚀 Hi, I'm RtxJean
 **Minecraft Developer | Software Developer**
 
-Developing custom Spigot/Paper plugins and scaling high-performance Minecraft networks.
+> Building scalable solutions and high-performance systems.
 
 <br>
 
