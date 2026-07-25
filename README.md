@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm RtxJean
+# Hi, I'm RtxJean
 **Minecraft Developer | Software Developer**
 
 > Building scalable solutions and high-performance systems.
